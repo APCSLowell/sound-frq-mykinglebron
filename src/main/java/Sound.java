@@ -27,7 +27,7 @@ public class Sound
       }
     return counter;
   }
-
+  }
 
 
   /** Removes all silence from the beginning of this sound.
