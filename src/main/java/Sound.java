@@ -25,8 +25,9 @@ public class Sound
         samples[i]= -limit;
         counter++
       }
+    }
     return counter;
-  }
+  
   }
 
 
